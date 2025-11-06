@@ -1,0 +1,1 @@
+Don't touch anything on this page. This page is juste for the updater. For download the real instaler, please follow this link: https://github.com/Racerdu83/DashBoardALG-Release/releases/tag/ALGApps-Release
